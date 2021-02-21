@@ -1,0 +1,2 @@
+>>>: npx create-next-app <app-name>
+>>>: npm run dev
